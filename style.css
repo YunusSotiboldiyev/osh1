@@ -1,0 +1,42 @@
+.second {
+    justify-content: space-evenly;
+    display: flex;
+padding: 20px;
+align-items: center;
+}
+.second h1{
+    text-align: center;
+}
+
+body {
+    background-image: url(./patteren\ foods.jpg);
+}
+
+#img {
+    border-radius: 150px;
+    width: 300px;
+    text-align: center;
+}
+
+table,
+th,
+td {
+    border: 1px solid black
+}
+
+#palov {
+    width: 600px;
+}
+
+.first {
+    padding-left: 25px;
+    max-width: 70%;
+    margin: 0 auto;
+    background-color: rgb(255, 255, 255);
+}
+.first h1{
+    text-align: center;
+}
+.first .second h2{
+    font-size: 30px;
+}
